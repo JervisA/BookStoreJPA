@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="BookStoreJPA">
+    <output-path>$PROJECT_DIR$/out/artifacts/BookStoreJPA</output-path>
+    <root id="root">
+      <element id="archive" name="BookStoreJPA.jar">
+        <element id="module-output" name="BookStoreJPA" />
+      </element>
+      <element id="library" level="project" name="mysql:mysql-connector-java:5.1.40" />
+      <element id="library" level="project" name="org.eclipse.persistence:eclipselink:2.6.2" />
+      <element id="library" level="project" name="JPA 2.0-2.0" />
+      <element id="jpa-descriptors" facet="BookStoreJPA/jpa/JPA" />
+    </root>
+  </artifact>
+</component>
